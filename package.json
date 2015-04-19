@@ -1,0 +1,22 @@
+{
+  "name": "node-sms-luosimao",
+  "version": "1.0.0",
+  "description": "http://luosimao.com/docs/api/20#send_msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/node-sms-luosimao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/node-sms-luosimao/issues"
+  },
+  "homepage": "https://github.com/i5ting/node-sms-luosimao",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
