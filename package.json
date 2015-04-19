@@ -1,11 +1,11 @@
 {
   "name": "node-sms-luosimao",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "http://luosimao.com/docs/api/20#send_msg",
   "main": "index.js",
   "scripts": {
     "start":"npm publish .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node demo.js"
   },
   "repository": {
     "type": "git",
