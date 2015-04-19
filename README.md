@@ -26,7 +26,7 @@ sms.send('18612189317', '测试1~~【node发送短信模块】', function(error,
 
 说明
 
-- sms.key是https://sms-my.luosimao.com/api里的API KEY
+- sms.key是 https://sms-my.luosimao.com/api 里的API KEY
 
 
 ## luosimao测试
