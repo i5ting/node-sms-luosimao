@@ -5,6 +5,12 @@ node发送短信模块，后台服务采用的是luosimao.com的服务
 [![npm version](https://badge.fury.io/js/node-sms-luosimao.svg)](http://badge.fury.io/js/node-sms-luosimao)
 
 
+## install
+ 
+```
+npm install --save node-sms-luosimao
+```
+
 ## demo
 
  
