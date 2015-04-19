@@ -1,6 +1,6 @@
 {
   "name": "node-sms-luosimao",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "http://luosimao.com/docs/api/20#send_msg",
   "main": "index.js",
   "scripts": {
