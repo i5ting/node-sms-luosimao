@@ -1,9 +1,12 @@
 # node-sms-luosimao
 
-http://luosimao.com/docs/api/20#send_msg
+node发送短信模块，后台服务采用的是luosimao.com的服务
+
+[![npm version](https://badge.fury.io/js/node-sms-luosimao.svg)](http://badge.fury.io/js/node-sms-luosimao)
 
 
 ## demo
+
  
 ```
 var sms = require("./index");
@@ -14,6 +17,17 @@ sms.send('18612189317', '测试1~~【小斑马货栈】', function(error, res, b
   console.log(body);
 });
 ``` 
+
+说明
+
+- sms.key是https://sms-my.luosimao.com/api里的API KEY
+
+
+## luosimao测试
+
+- 收到短信时间，大约8到12秒
+- 价格也还凑合，http://luosimao.com/service/sms#sms-price
+
 
 ## Contributing
 
